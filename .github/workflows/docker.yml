@@ -40,5 +40,5 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: |
-            JuanCamTobar/animal-farm-nodejs:latest
-            ghcr.io/juancato/animal-farm-nodejs:latest
+            juancato/animal-farm-nodejs:latest
+            ghcr.io/JuanCamTobar/animal-farm-nodejs:latest
