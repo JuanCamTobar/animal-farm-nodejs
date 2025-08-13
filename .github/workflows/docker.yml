@@ -41,4 +41,4 @@ jobs:
           push: true
           tags: |
             juancato/animal-farm-nodejs:latest
-            ghcr.io/JuanCamTobar/animal-farm-nodejs:latest
+            ghcr.io/juancamtobar/animal-farm-nodejs:latest
